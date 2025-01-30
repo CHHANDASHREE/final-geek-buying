@@ -1,10 +1,13 @@
 # GeekBuying
+
 ![image](https://user-images.githubusercontent.com/107488954/217531935-18fcdad9-733a-40f6-a9b1-649feb3e139a.png)
 
 ## Buy Anything from AnyWhere
+
 GeekBuying makes your shopping even simpler. No more hassle finding the products in diffrent websites get it all at one place - now shop from the comfort of your home, office or on the move.
 
 ## About!
+
 GeekBuying is a Ecomerce Website, which is built using React which gives this app a faster and optimized user expirence
 
 Geekbuying is the ultimate shopping hub for new releases covering smart home products like vacuum cleaners, fitness equipment like treadmills, top of the line home and office furniture, outdoor items including e-bikes, scooters, and other consumer goods like TV boxes, RC Toys and so much more! Shop for your favorite brands and products today!
@@ -12,13 +15,11 @@ Geekbuying is the ultimate shopping hub for new releases covering smart home pro
 Features
 You can signup/login, and then arrive on a super detailed landing page, explore various sections such as new and bestselling, various categories, and then order any product from our website. Also our website is really easy to use with its navbar showing all the important info on it. We accept all the popular payment methods.
 
-
 <h1 align="center">GeekBuying ( Team Project )</h1>
 
 <h3 align="center">It's a React E-commerce website with all the major functionalities</h3>
 
 <br />
-
 
 <h2 align="center">🖥️ Tech Stack</h2>
 
@@ -34,8 +35,6 @@ You can signup/login, and then arrive on a super detailed landing page, explore 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
 </p>
 
-
-
 <h4 align="center">Deployed On:</h4>
 
 <p align="center">
@@ -43,7 +42,6 @@ You can signup/login, and then arrive on a super detailed landing page, explore 
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" />
 </a>
 <h3 align="center"><a href="https://mygeekbuying.netlify.app/"><strong>Want to see live preview »</strong></a></h3>
-
 
 <br />
 
@@ -59,16 +57,13 @@ It’s Group project where we've used MERN stack to build the geekbuying.com wit
 its Fully Responsive. Daily Objects is a E-Commerce Website who deals with the cases,covers & bags. Created Carts, Products, Users, Admin API ( Back-End ).
 
 ## Home Page
+
 ![image](https://user-images.githubusercontent.com/107488954/217531935-18fcdad9-733a-40f6-a9b1-649feb3e139a.png)
 
 ## Products Page
+
 ![image](https://user-images.githubusercontent.com/107488954/217532492-22e2a829-eba9-49eb-b0e8-7bdd791077ff.png)
 
 ## Login Page
+
 ![image](https://user-images.githubusercontent.com/107488954/217532630-a6d26ee2-d3cf-404b-984e-d95c8e0bf735.png)
-
-## Team Members.
-1.	Mr. Alex Dislva
-2.	Mr. Vishal Raj.
-
-
